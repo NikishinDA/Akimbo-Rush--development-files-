@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa1627573adbab4eb76982c566ffa84, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  chunks:
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 3
+    - ObstacleType: 0
+      Position: 8
+    - ObstacleType: 0
+      Position: 5
+    - ObstacleType: 0
+      Position: 6
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 0
+    - ObstacleType: 0
+      Position: 2
+  - ChunkType: 2
+    Lines: []
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 1
+    - ObstacleType: 0
+      Position: 4
+    - ObstacleType: 0
+      Position: 6
+    - ObstacleType: 0
+      Position: 8
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 2
+    - ObstacleType: 0
+      Position: 4
+    - ObstacleType: 3
+      Position: 7
+    - ObstacleType: 0
+      Position: 0
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 2
+    - ObstacleType: 0
+      Position: 4
+    - ObstacleType: 0
+      Position: 7
+    - ObstacleType: 0
+      Position: 0
+  - ChunkType: 0
+    Lines:
+    - ObstacleType: 0
+      Position: 1
+    - ObstacleType: 0
+      Position: 4
